@@ -1,0 +1,4 @@
+- 👋 Hi, I’m _@KnightLevi_ but you can just call me **Levi**.
+- 👀 I’m interested in getting into **Cybersecurity**
+- 🌱 I’m currently learning How to **code**, Think like a **hacker**, and Use the **tools** needed in the cybersecurity field.
+- 📫 Reach out to me at levi.b.cam@gmail.com
